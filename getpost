@@ -34,7 +34,7 @@
 </body>
 </html>
 <?php 
-	$npm = $_POST['npm'];
+	$nis = $_POST['nis'];
 	$nama = $_POST['nama'];
 	$alamat = $_POST['alamat'];
 	$jurusan = $_POST['jurusan'];
